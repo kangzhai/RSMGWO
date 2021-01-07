@@ -33,11 +33,11 @@ Xinming Zhang, Xia Wang, Qiang Kang, Jinfeng Cheng. Differential mutation and no
 
 The codes of DSPSO are available at https://github.com/kangzhai/DSPSO.
 
-**RSMGWO:**
+**HGWOP:**
 
-Xinming Zhang, Xia Wang, Haiyan Chen, Doudou Wang, Zihao Fu. Improved GWO for large-scale function optimization and MLP optimization in cancer identification. Neural Computing and Applications, 2020, 32: 1305–1325. https://doi.org/10.1007/s00521-019-04483-4
+Xinming Zhang, Qiuying Lin, Wentao Mao, Shangwang Liu, Zhi Dou, Guoqi Liu. Hybrid Particle Swarm and Grey Wolf Optimizer and its application to clustering optimization. Applied Soft Computing Journal, 2021, 101: 107061. https://doi.org/10.1016/j.asoc.2020.107061
 
-The codes of RSMGWO are available at https://github.com/kangzhai/RSMGWO.
+The codes of HGWOP are available at https://github.com/kangzhai/HGWOP/.
 
 **Chinese monograph:**
 
