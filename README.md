@@ -39,6 +39,12 @@ Xinming Zhang, Qiuying Lin, Wentao Mao, Shangwang Liu, Zhi Dou, Guoqi Liu. Hybri
 
 The codes of HGWOP are available at https://github.com/kangzhai/HGWOP/.
 
+**HWOAG:**
+
+Xinming Zhang, Shaochen Wen. Hybrid whale optimization algorithm with gathering strategies for high-dimensional problems. Expert Systems with Applications, 2021. https://doi.org/10.1016/j.eswa.2021.115032
+
+The codes of HWOAG are available at https://github.com/kangzhai/HWOAG.
+
 **Chinese monograph:**
 
 We also recommend our Chinese monograph as below, which describes in detail various improved biogeography-based optimization algorithms and their applications to image segmentation.
